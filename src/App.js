@@ -40,6 +40,7 @@ function App() {
 
   return (<>
     <header>
+    <h2>Movie House</h2>
       <form onSubmit={handleSubmit}>
         <input
           type="search"
